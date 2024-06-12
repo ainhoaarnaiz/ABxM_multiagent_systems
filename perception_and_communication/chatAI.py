@@ -24,7 +24,7 @@ brick = 0
 previous_brick = 3
 
 # Access key for Porcupine
-access_key = "hxquMGK6OtMgP8/A54fHJZcOM94Dqpk7BrsRNhgXbZ2za8FHaQfCsw=="
+access_key = "" #enter your access key
 
 # Initialize recognizer and text-to-speech engine
 recognizer = sr.Recognizer()
